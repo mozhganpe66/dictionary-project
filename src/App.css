@@ -5,3 +5,7 @@
   display: block;
   margin: 0 auto;
 }
+.App-footer{
+  text-align: center;
+  margin: 50px 0;
+}
