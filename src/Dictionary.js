@@ -3,7 +3,7 @@ import axios from 'axios';
  export default function Dictionary(){
     let [keyword, setKeyword] = useState("");
      function handelResponse(response){
-            console.log(response.data)
+            console.log(response.data[0])
      }
 
     function search(event){
