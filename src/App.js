@@ -12,7 +12,7 @@ function App() {
       <main>
         <Dictionary defaultKeyword="sunset"/>
       </main>
-      <footer className="App-footer"><small>coded by Shecodes</small></footer>
+      <footer className="App-footer"><small>This project is coded by <a href="https://github.com/mozhganpe66 " target="_blank">Mozhgan P</a> and is open sourced in <a href="https://github.com/mozhganpe66/dictionary-project" target="_blank">github</a></small></footer>
       </div>
     </div>
   );
