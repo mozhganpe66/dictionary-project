@@ -12,7 +12,7 @@ function App() {
       <main>
         <Dictionary defaultKeyword="sunset"/>
       </main>
-      <footer className="App-footer"><small>This project is coded by <a href="https://github.com/mozhganpe66 " target="_blank" rel="noreferrer">Mozhgan P</a> and is open sourced in <a href="https://github.com/mozhganpe66/dictionary-project" target="_blank">github</a></small></footer>
+      <footer className="App-footer"><small>This project is coded by <a href="https://github.com/mozhganpe66 " target="_blank" rel="noreferrer">Mozhgan P</a> and is open sourced in <a href="https://github.com/mozhganpe66/dictionary-project" target="_blank" rel="noreferrer">github</a></small></footer>
       </div>
     </div>
   );
